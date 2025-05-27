@@ -1,0 +1,10 @@
+[package]
+name = "pedersen"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bulletproofs = "5.0.0"
+curve25519-dalek = "4.1.3"
+merlin = "3.0.0"
+rand = "0.9.1"
